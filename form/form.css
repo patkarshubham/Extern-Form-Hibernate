@@ -1,0 +1,13 @@
+body
+{
+	background: url(800px-Hawa_Mahal_2011.jpg);
+	background-position:center;
+	background-size:cover;
+}
+h1
+{
+	color:white;
+	background-color:black;
+	text-align:center;
+	float:center;
+}
